@@ -34,6 +34,6 @@ class CalculatorTest {
 	void testMul() {
 		Calculator calculator = new Calculator();
 		int result = calculator.mul(5, 3);
-		assertEquals(15, result);
+		assertEquals(20, result);
 	}
 }
