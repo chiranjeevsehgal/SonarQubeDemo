@@ -1,0 +1,6 @@
+projectKey=sqd3
+serverUrl=http://localhost:9000
+serverVersion=9.9.8.100196
+dashboardUrl=http://localhost:9000/dashboard?id=sqd3
+ceTaskId=AZYPn2DFSR65-tUxrfWC
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AZYPn2DFSR65-tUxrfWC
